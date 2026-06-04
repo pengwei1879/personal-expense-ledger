@@ -1,0 +1,5 @@
+
+> personal-expense-ledger@0.1.0 start
+> node src/server.js
+
+Personal Expense Ledger is running at http://127.0.0.1:8001
